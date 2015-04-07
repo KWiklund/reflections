@@ -1,0 +1,7 @@
+More git stuff.
+
+Added new file as untracked  
+
+The staging area is intermediate between the working directory and the repo.
+Having it allows one to selectively track particular files for a commit, or make
+changes prior to a commit.
