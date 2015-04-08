@@ -5,3 +5,6 @@ Added new file as untracked
 The staging area is intermediate between the working directory and the repo.
 Having it allows one to selectively track particular files for a commit, or make
 changes prior to a commit.
+
+We can use the staging area to examine staged changes.  Going through the changes allows us to verify that only a single
+logical change is made per commit.  Other logical changes can be withheld for subsequent commits.
