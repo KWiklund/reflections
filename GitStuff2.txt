@@ -8,3 +8,6 @@ changes prior to a commit.
 
 We can use the staging area to examine staged changes.  Going through the changes allows us to verify that only a single
 logical change is made per commit.  Other logical changes can be withheld for subsequent commits.
+
+Branches allow me to experiment with adding new features without modifying the main, working branch.  This allows me to better
+highlight the development history of the feature
