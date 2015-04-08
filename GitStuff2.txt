@@ -13,3 +13,6 @@ Branches allow me to experiment with adding new features without modifying the m
 highlight the development history of the feature
 
 The diagrams help me to visualize the branch structure by showing the history, points of departure, and other branches.
+
+Merging branches together brings the code changes of one branch into the other.  This adds finalized features, changes, etc
+to the desired main branch.
