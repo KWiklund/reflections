@@ -11,3 +11,5 @@ logical change is made per commit.  Other logical changes can be withheld for su
 
 Branches allow me to experiment with adding new features without modifying the main, working branch.  This allows me to better
 highlight the development history of the feature
+
+The diagrams help me to visualize the branch structure by showing the history, points of departure, and other branches.
