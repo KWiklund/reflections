@@ -4,3 +4,8 @@ in nature.  I might also create such a repository if I intended my code to be op
 2. One reason to to keep pulls manual is to allow greater safety during work.  The remote repo may only be for code meant for distribution.
 It may not be desirable for code currently being worked on to be uploaded.  This is especially true for collaborative projects, where
 such changes may be highly confusing.
+
+3. Forks are a kind of clone unique to git hub.  They allow for a greater level of history (and thus credit) than a simple clone command.
+   Clones are a way of copying a repo along with its related files.
+   A branch is setting up a different path in your history that is seperate from the main path (this will preserve the main path!).  This allows for
+   the addition of new features, experiments, etc without adversely affecting production code.	
