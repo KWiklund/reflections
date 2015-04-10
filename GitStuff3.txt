@@ -1,0 +1,2 @@
+1.  I would create a remote repository if I expect to be working across multiple machines, or if the project will be collaborative
+in nature.  I might also create such a repository if I intended my code to be openly accessible to others.
